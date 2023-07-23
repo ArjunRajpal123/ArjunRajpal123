@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arjun Rajpal</h1>
-<h3 align="center">I am a passionate Computer and Data Science student at New York University and a full-stack developer at SwipeDinna.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunrajpal123&label=Profile%20views&color=0e75b6&style=flat" alt="arjunrajpal123" /> </p>
 
-- 🔭 I’m currently working on [SwipeDinna](https://www.mealsdinna.com/)
+
 
 - 💬 Ask me about **react, flutter, firebase, AWS, Azure, AI, ML**
   
 
-- 📫 How to reach me **arjunrajpal1234@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
