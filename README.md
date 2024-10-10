@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about ** Golang, Typescript, Snowflake, AWS, ML/AI, Python**
+- 💬 Ask me about **Golang, Typescript, Snowflake, AWS, ML/AI, Python**
   
 
 <h3 align="left">Connect with me:</h3>
