@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Rajpal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunrajpal123&label=Profile%20views&color=0e75b6&style=flat" alt="arjunrajpal123" /> </p>
-
-
-
 - 💬 Ask me about **Golang, Typescript, Snowflake, AWS, ML/AI, Python**
   
 
