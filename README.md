@@ -11,7 +11,7 @@
 
 
 <p>
-  <img align="left" src="https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api?username=arjunrajpal123" alt="arjunrajpal123" />
+  <img align="left" src="https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api/top-langs?username=arjunrajpal123" alt="arjunrajpal123" />
 </p>
 
 
