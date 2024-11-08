@@ -9,7 +9,7 @@
 </p>
 https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app
 
-[![Anurag's GitHub stats](https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api?username=arjunrajpal123)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
