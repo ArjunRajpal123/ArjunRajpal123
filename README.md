@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/arjun-rajpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-rajpal" height="30" width="40" /></a>
 </p>
 
-[![Arjun's GitHub stats](https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api?username=arjunrajpal123)](Arjun Stats)
+![Arjun's GitHub stats](https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api?username=arjunrajpal123)
 
 
 <h3 align="left">Languages and Tools:</h3>
