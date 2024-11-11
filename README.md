@@ -18,6 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunrajpal123&show_icons=true&locale=en&layout=compact" alt="arjunrajpal123" /></p>
 
-
-https://readme-stats-git-dependabot-npm-9b8b99-arjunrajpal123s-projects.vercel.app/api?username=arjunrajpal123
-
