@@ -9,3 +9,7 @@ I’m passionate about building innovative solutions using a variety of tools an
 
 ### 📬 Let's Connect:
 [LinkedIn](https://linkedin.com/in/arjun-rajpal)
+
+
+Thanks!  
+[☕ Buy me a coffee](https://buymeacoffee.com/arjunrajpal)
