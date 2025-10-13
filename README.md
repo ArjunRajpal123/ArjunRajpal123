@@ -4,8 +4,8 @@ I’m passionate about building innovative solutions using a variety of tools an
 
 ### 💡 Expertise:
 - **Languages:** Golang, TypeScript, Python
-- **Tools:** Docker, Tailwind CSS, TensorFlow, PyTorch, Sklearn
-- **Cloud & Data:** AWS, GCP, Snowflake
+- **Tools:** Docker, DBT, Tailwind CSS, TensorFlow, PyTorch, Sklearn
+- **Cloud & Data:** AWS, Snowflake, GCP
 
 ### 📬 Let's Connect:
 [LinkedIn](https://linkedin.com/in/arjun-rajpal)
